@@ -1,0 +1,18 @@
+[
+    {
+        "SubjectEntityID": "Q6565314",
+        "SubjectEntity": "Fulbright Prize",
+        "ObjectEntitiesID": ["Q43033", "Q36233", "Q49330", "Q6700517", "Q297275", "Q463877", "Q77631", "Q158123", "Q150851", "Q188214", "Q230578", "Q28057704", "Q111222506", "Q111028460", "Q122074202", "Q123010123", "Q123706901", "Q123261966", "Q123334784", "Q1480", "Q1254", "Q1124", "Q335", "Q8023", "Q5284", "Q29230", "Q23685"],
+        "ObjectEntities": ["Desmond Tutu", "Václav Havel", "Médecins Sans Frontières", "Luis Enrique Sam Colop", "Hans Blix", "Melinda Gates", "Herbert Bloch", "Franz Vranitzky", "Colin Powell", "Mary Robinson", "Fernando Henrique Cardoso", "Ramiro Llona", "Esmeralda Thornhill", "John B. Irwin", "Kyle Forinash", "Kathryn VanSpanckeren", "Stephan Brigidi", "Yi-Chun Tricia Lin", "Bernard Eskil Swedlund", "Corazon Aquino", "Kofi Annan", "Bill Clinton", "Patricio Aylwin", "Nelson Mandela", "Bill Gates", "Martti Ahtisaari", "Jimmy Carter"],
+        "Relation": "awardWonBy",
+        "Predictions": ["Desmond Tutu", "Nelson Mandela", "Bill Clinton", "Kofi Annan", "Mary Robinson"]
+    },
+    {
+        "SubjectEntityID": "Q166177",
+        "SubjectEntity": "Ballon d'Or",
+        "ObjectEntitiesID": ["Q36386", "Q39444", "Q43744", "Q41244", "Q57183", "Q167828", "Q164521", "Q164546", "Q171295", "Q171583", "Q173139", "Q173972", "Q178628", "Q186691", "Q187125", "Q152871", "Q152832", "Q153463", "Q162043", "Q230046", "Q233565", "Q201534", "Q216140", "Q220700", "Q223158", "Q102027", "Q123118", "Q128829", "Q67964", "Q483145", "Q483629", "Q483837", "Q483577", "Q310657", "Q311410", "Q531814", "Q529207", "Q615", "Q1835", "Q1912", "Q4457", "Q4261", "Q11571", "Q13494", "Q17163"],
+        "ObjectEntities": ["Lothar Matthäus", "Ronaldinho", "Gerd Müller", "Andriy Shevchenko", "Matthias Sammer", "Lev Yashin", "George Best", "Alfredo Di Stéfano", "Pavel Nedvěd", "Bobby Charlton", "George Weah", "Ruud Gullit", "Paolo Rossi", "Oleh Blokhin", "Hristo Stoichkov", "Karl-Heinz Rummenigge", "Kevin Keegan", "Allan Simonsen", "Eusébio", "Gianni Rivera", "Denis Law", "Flórián Albert", "Stanley Matthews", "Omar Sívori", "Josef Masopust", "Fabio Cannavaro", "Raymond Kopa", "Michael Owen", "Roberto Baggio", "Luís Figo", "Marco van Basten", "Luka Modrić", "Rivaldo", "Matías Fernandez", "Igor Belanov", "Kaká", "Ronaldo", "Lionel Messi", "Zinedine Zidane", "Karim Benzema", "Franz Beckenbauer", "Michel Platini", "Cristiano Ronaldo", "Jean-Pierre Papin", "Johan Cruyff"],
+        "Relation": "awardWonBy",
+        "Predictions": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "Zinedine Zidane", "Luka Modrić"]
+    },
+]
