@@ -1,0 +1,351 @@
+{
+    "head": {
+        "vars": [
+            "subjectEntity",
+            "subjectEntityLabel",
+            "objectEntity",
+            "objectEntityLabel"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q427800"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Knipex"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q499707"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "BNP Paribas"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q217475"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Tokyo Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q645708"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "ING Group"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q13677"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "New York Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q645708"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "ING Group"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q936563"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Italian Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q659230"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Orange County Choppers"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q682759"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Linde Group"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q13677"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "New York Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q682759"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Linde Group"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q82059"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Nasdaq"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q682759"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Linde Group"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q151139"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Frankfurt Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1475554"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Sodexo"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1930860"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "OTC Markets Group"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q4747070"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Amlin"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q171240"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "London Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5135229"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Falageylla"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q891561"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Santiago Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5216057"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "JGC Holdings Corporation"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q217475"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Tokyo Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5987322"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Idaho Botanical Garden"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7064390"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Novadios"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q11510293"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Nicca Chemical"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q217475"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Tokyo Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q24358175"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "PACCO"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q54946455"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "TOOL Werkzeugba"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56273715"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Tapestry, Inc."
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q13677"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "New York Stock Exchange"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q67810843"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Amundi CR - Fond Investičních Příležitostí 7/2020, Amundi Czech Republic, investiční společnost, a.s"
+                }
+            },
+            {
+                "subjectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109627057"
+                },
+                "subjectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "MONEY3 CORPORATION LIMITED"
+                },
+                "objectEntity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q732670"
+                },
+                "objectEntityLabel": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Australian Securities Exchange"
+                }
+            }
+        ]
+    }
+}
